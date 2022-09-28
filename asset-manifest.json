@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.71c3e3de.css",
+    "main.js": "/static/js/main.56bdbe19.js",
+    "static/media/heropix.png": "/static/media/heropix.ca5a4034bb3ef0f3c64f.png",
+    "static/media/whybg.png": "/static/media/whybg.2c0f44d75fa540824359.png",
+    "static/media/newslatter.png": "/static/media/newslatter.ae93c07a61e42102d28e.png",
+    "static/media/expl8.png": "/static/media/expl8.1a29bde99531c6fa51fe.png",
+    "static/media/expl1.png": "/static/media/expl1.46d9b3d8800aa1042da6.png",
+    "static/media/expl10.png": "/static/media/expl10.503b40cf8e157c95a0b2.png",
+    "static/media/expl11.png": "/static/media/expl11.bf107a7138b4a50d7980.png",
+    "static/media/expl9.png": "/static/media/expl9.0e7db359929dfcf078fc.png",
+    "static/media/expl12.png": "/static/media/expl12.af85695a115a9405c238.png",
+    "static/media/prptes3.png": "/static/media/prptes3.bab8ae3dff2c0c354b7a.png",
+    "static/media/prptes4.png": "/static/media/prptes4.96d6797c5eee488b62ab.png",
+    "static/media/prptes6.png": "/static/media/prptes6.6e105af08ba77630ea1b.png",
+    "static/media/prptes5.png": "/static/media/prptes5.01f64ea708d60d74573e.png",
+    "static/media/expl6.png": "/static/media/expl6.9c5645a590fbe7ddcf33.png",
+    "static/media/expl4.png": "/static/media/expl4.819bb95135784879b114.png",
+    "static/media/expl2.png": "/static/media/expl2.cde47c45dccb8aa095bd.png",
+    "static/media/prptes2.png": "/static/media/prptes2.8e8cb4cd44df72a50224.png",
+    "static/media/expl7.png": "/static/media/expl7.c820a12881977400ebfd.png",
+    "static/media/prptes1.png": "/static/media/prptes1.3e4135290e479ce7de82.png",
+    "static/media/agnt1.png": "/static/media/agnt1.b56cadadcadcb5cf3152.png",
+    "static/media/expl3.png": "/static/media/expl3.aed2590cb6d6639a742c.png",
+    "static/media/agnt2.png": "/static/media/agnt2.dab063bfcc68a26e4d22.png",
+    "static/media/expl5.png": "/static/media/expl5.c184c3a0f08111bf2da9.png",
+    "static/media/tsmny3.png": "/static/media/tsmny3.5ae242e654303b50a291.png",
+    "static/media/tsmny2.png": "/static/media/tsmny2.10f89d1e373f137d04fa.png",
+    "static/media/tsmny1.png": "/static/media/tsmny1.170ed5173b40d4ac4a1a.png",
+    "index.html": "/index.html",
+    "main.71c3e3de.css.map": "/static/css/main.71c3e3de.css.map",
+    "main.56bdbe19.js.map": "/static/js/main.56bdbe19.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71c3e3de.css",
+    "static/js/main.56bdbe19.js"
+  ]
+}
