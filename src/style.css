@@ -5,7 +5,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   box-sizing: border-box;
-  font-size: 1.2rem;
+  font-size: 1rem;
 }
 
 @keyframes pixGrow {
@@ -418,16 +418,23 @@ hr {
   /* border: 2px solid; */
 }
 
-.s-prptes {
+.s-prptes, .h-prptes {
   position: absolute;
+  font-size: 1.1rem;
+  z-index: 1000;
+  left: 1.5rem;
+  font-weight: 700;
+  letter-spacing: .08rem;
+}
+
+.s-prptes {
   /* color: #fff; */
   top: 1.5rem;
 }
 
 .h-prptes {
-  position: absolute;
   /* color: #fff; */
-  top: 4rem;
+  top: 3rem;
 }
 
 .i-prptes {
