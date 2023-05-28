@@ -31,17 +31,15 @@ import Agnt2 from '../img/agnt/agnt2.png';
 
 const Body = () => {
   return (
-    <div>
-      <div className='body'>
-        <Properties 
-          Prptes1={Prptes1} 
-          Prptes2={Prptes2}
-          Prptes3={Prptes3}
-          Prptes4={Prptes4}
-          Prptes5={Prptes5}
-          Prptes6={Prptes6}
-        />
-      </div>
+    <div className='body'>
+      <Properties 
+        Prptes1={Prptes1} 
+        Prptes2={Prptes2}
+        Prptes3={Prptes3}
+        Prptes4={Prptes4}
+        Prptes5={Prptes5}
+        Prptes6={Prptes6}
+      />
       <Explore 
         Expl1={Expl1}
         Expl2={Expl2}
