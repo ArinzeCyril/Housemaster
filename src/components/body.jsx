@@ -26,21 +26,22 @@ import Tsmny1 from '../img/tsmny/tsmny1.png';
 import Tsmny2 from '../img/tsmny/tsmny2.png';
 import Tsmny3 from '../img/tsmny/tsmny3.png';
 import Agnt1 from '../img/agnt/agnt1.png';
-import Agnt2 from '../img/agnt/agnt2.png';
+import Agnt2 from "../img/agnt/agnt2.png"
+import Agnt3 from "../img/agnt/agnt3.jpg"
 
 
 const Body = () => {
   return (
     <div className='body'>
-      <Properties 
-        Prptes1={Prptes1} 
+      <Properties
+        Prptes1={Prptes1}
         Prptes2={Prptes2}
         Prptes3={Prptes3}
         Prptes4={Prptes4}
         Prptes5={Prptes5}
         Prptes6={Prptes6}
       />
-      <Explore 
+      <Explore
         Expl1={Expl1}
         Expl2={Expl2}
         Expl3={Expl3}
@@ -55,15 +56,8 @@ const Body = () => {
         Expl12={Expl12}
       />
       <WhyUs />
-      <Testimonial 
-        Tsmny1={Tsmny1}
-        Tsmny2={Tsmny2}
-        Tsmny3={Tsmny3}
-      />
-      <Agents 
-        Agnt1={Agnt1}
-        Agnt2={Agnt2}
-      />
+      <Testimonial Tsmny1={Tsmny1} Tsmny2={Tsmny2} Tsmny3={Tsmny3} />
+      <Agents Agnt1={Agnt1} Agnt2={Agnt2} Agnt3={Agnt3} />
       <NewsLetter />
     </div>
   )
