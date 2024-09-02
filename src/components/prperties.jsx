@@ -33,7 +33,7 @@ export default function prperties({ Prptes1 , Prptes2, Prptes3, Prptes4, Prptes5
                         </div>
                         <hr />
                         <div className='prptes-card-foot'>
-                            <p>$100/mo</p>
+                            <p>$8,000/mo</p>
                             <div className='prptes-foot-icn'>
                                 <i className="fa-regular fa-up-right-and-down-left-from-center"></i>
                                 <i className="fa-regular fa-heart"></i>
@@ -71,7 +71,7 @@ export default function prperties({ Prptes1 , Prptes2, Prptes3, Prptes4, Prptes5
                         </div>
                         <hr />
                         <div className='prptes-card-foot'>
-                            <p>$100/mo</p>
+                            <p>$10,000/mo</p>
                             <div className='prptes-foot-icn'>
                                 <i className="fa-regular fa-up-right-and-down-left-from-center"></i>
                                 <i className="fa-regular fa-heart"></i>
@@ -109,7 +109,7 @@ export default function prperties({ Prptes1 , Prptes2, Prptes3, Prptes4, Prptes5
                         </div>
                         <hr />
                         <div className='prptes-card-foot'>
-                            <p>$100/mo</p>
+                            <p>$25,000/mo</p>
                             <div className='prptes-foot-icn'>
                                 <i className="fa-regular fa-up-right-and-down-left-from-center"></i>
                                 <i className="fa-regular fa-heart"></i>
@@ -159,7 +159,7 @@ export default function prperties({ Prptes1 , Prptes2, Prptes3, Prptes4, Prptes5
                         </div>
                         <hr />
                         <div className='prptes-card-foot'>
-                            <p>$10000</p>
+                            <p>$650,000</p>
                             <div className='prptes-foot-icn'>
                                 <i className="fa-regular fa-up-right-and-down-left-from-center"></i>
                                 <i className="fa-regular fa-heart"></i>
@@ -197,7 +197,7 @@ export default function prperties({ Prptes1 , Prptes2, Prptes3, Prptes4, Prptes5
                         </div>
                         <hr />
                         <div className='prptes-card-foot'>
-                            <p>$10000</p>
+                            <p>$1,800,000</p>
                             <div className='prptes-foot-icn'>
                                 <i className="fa-regular fa-up-right-and-down-left-from-center"></i>
                                 <i className="fa-regular fa-heart"></i>
@@ -235,7 +235,7 @@ export default function prperties({ Prptes1 , Prptes2, Prptes3, Prptes4, Prptes5
                         </div>
                         <hr />
                         <div className='prptes-card-foot'>
-                            <p>$10000</p>
+                            <p>$700,000</p>
                             <div className='prptes-foot-icn'>
                                 <i className="fa-regular fa-up-right-and-down-left-from-center"></i>
                                 <i className="fa-regular fa-heart"></i>

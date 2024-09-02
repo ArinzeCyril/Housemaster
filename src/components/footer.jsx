@@ -8,45 +8,63 @@ const Footer = () => {
           <h2>Explore</h2>
           <div>
             <i className='fa-regular fa-greater-than'></i>
-            <p>Las Vegas</p>
+            <p>
+              <a href='#explorcty'>Las Vegas</a>
+            </p>
           </div>
           <div>
             <i className='fa-regular fa-greater-than'></i>
-            <p>Lagos</p>
+            <p>
+              <a href='#explorpty'>Lagos</a>
+            </p>
           </div>
           <div>
             <i className='fa-regular fa-greater-than'></i>
-            <p>Dubai</p>
+            <p>
+              <a href='#explorcty'>Dubai</a>
+            </p>
           </div>
         </div>
         <div className='ft-cntct'>
           <h2>Contact</h2>
           <div>
             <i className='fa-regular fa-location-dot'></i>
-            <p>Old School Lane, Akure</p>
+            <p>
+              <a href='#contact'>Old School Lane, Akure</a>
+            </p>
           </div>
           <div>
             <i className='fa-regular fa-phone'></i>
-            <p>Call</p>
+            <p>
+              <a href='#contact'>Call</a>
+            </p>
           </div>
           <div>
             <i className='fa-regular fa-envelope'></i>
-            <p>Email</p>
+            <p>
+              <a href='#contact'>Email</a>
+            </p>
           </div>
         </div>
         <div className='ft-lnk'>
           <h2>Quick Links</h2>
           <div>
             <i className='fa-regular fa-house'></i>
-            <p>Properties</p>
+            <p>
+              <a href='#properties'>Properties</a>
+            </p>
           </div>
           <div>
             <i className='fa-regular fa-user-group'></i>
-            <p>Agents</p>
+            <p>
+              <a href='#agent'>Agents</a>
+            </p>
           </div>
           <div>
             <i className='fa-regular fa-link'></i>
-            <p>About us</p>
+            <p>
+              <a href='#contact'>About us</a>
+            </p>
           </div>
         </div>
       </div>
@@ -56,12 +74,17 @@ const Footer = () => {
       <hr className='hr-4 hr' />
       <hr className='hr-5 hr' />
       <hr className='hr-6 hr' />
-      <div  className='dev-ft'>
+      <div className='dev-ft'>
         <div className='dev'>
           <p>&copy; Designed by Abiodun Dominion</p>
-          <p>&copy; Developed by Arinze Cyril</p>
+          <p>
+            &copy; Developed by{" "}
+            <a href='https://arinzecyril.github.io/page'>Arinze Cyril</a>
+          </p>
         </div>
-        <p>Housemaster.</p>
+        <p>
+          <a href='#home'>Housemaster.</a>
+        </p>
       </div>
     </footer>
   )

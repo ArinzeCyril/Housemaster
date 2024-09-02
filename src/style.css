@@ -148,6 +148,10 @@ nav h1 {
   margin-right: 1.5rem;
 }
 
+.active{
+  background-color: #fc6f38;
+}
+
 .top-input {
   display: flex;
   justify-content: space-between;
@@ -186,6 +190,32 @@ nav h1 {
   background-color: #D83D00;
   border: #D83D00;
   color: #fff;
+}
+
+.show-info-onsubmit{
+  padding: 3rem 5rem;
+  width: 20rem;
+  letter-spacing: .1rem;
+  font-weight: 500;
+  font-size: 1.2rem;
+  color: #232121;
+  text-align: center;
+  position: absolute;
+  bottom: 15%;
+  left: 10%;
+  background-color: #dcdee3;
+  background-color: hsla(0, 0%, 100%, 0.907);
+  border-radius: 1.5rem;
+}
+
+@supports (backdrop-filter: blur(3.5rem)) {
+ .show-info-onsubmit {
+    background: hsl(0 0% 100% / 0.1);
+    backdrop-filter: blur(3.5rem);
+  }
+}
+.hide-info-onsubmit{
+  display: none;
 }
 
 .body {
@@ -564,11 +594,11 @@ hr {
 .testimony {
   background-color: #C6CFFF;
   position: relative;
-  padding-bottom: 12rem;
+  padding-bottom: 10rem;
 }
 
 .tsmny-qute-up, .tsmny-qute-dn {
-  font-size: 54rem;
+  font-size: 48rem;
   display: inline-block;
   margin: 0;
   padding: 0;
@@ -577,14 +607,15 @@ hr {
 
 .tsmny-qute-up {
   position: absolute;
-  top: -13rem;
+  top: -35rem;
   right: 1rem;
+  transform: rotate(180deg);
 }
 
 .tsmny-qute-dn {
   position: absolute;
   left: 1rem;
-  bottom: -36.2rem;
+  bottom: -34.2rem;
 }
 
 .tsmny {
@@ -608,7 +639,7 @@ hr {
   padding: 2rem;
   display: flex;
   flex-direction: column;
-  gap: 5rem;
+  gap: 2.5rem;
 }
 
 .card-p >p {
@@ -743,6 +774,10 @@ footer{
   gap: .5rem;
 }
 
+.ft-navs p, .ft-navs h2{
+  cursor: pointer;
+}
+
 .dev-ft {
   display: flex;
   justify-content: space-between;
@@ -823,3 +858,24 @@ footer{
   }
 }
 
+.pointer {
+  cursor: pointer;
+}
+
+.show {
+  display: block;
+  margin-top: .8rem;
+}
+
+.red {
+  color: red;
+}
+
+.hide {
+  display: none;
+}
+
+a{
+  color: inherit;
+  text-decoration: none;
+}
